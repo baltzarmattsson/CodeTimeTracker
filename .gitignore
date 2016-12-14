@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.class
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
+*.class
+.out/
+out/
+*.log
+*.properties
+*.xml
+src/META-INF/
